@@ -1,0 +1,2 @@
+Production Annuelle (kWh) | Puissance crête du parc (kWc) | Durée retour sur investissement (ans)
+0.000000 				0.000000 		  	0.000000

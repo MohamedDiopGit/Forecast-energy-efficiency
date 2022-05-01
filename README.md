@@ -1,5 +1,5 @@
 # Forecast-energy-efficiency
- Forecasting energy efficiency, reliability and cost of solar panels, by analyzing weather data in CSV format.
+ Forecasting energy efficiency, reliability and cost of solar panels for a house, by analyzing weather data in CSV format.
 
 To start the program : 	
 	Open Terminal from the "Project_AlgoProg_DIOP_GLEYZE" folder

@@ -3,7 +3,7 @@
 
 To start the program : 	
 	Open Terminal from the "Project_AlgoProg_DIOP_GLEYZE" folder
-		type --> 'bash myApp.sh
+		type --> 'bash myApp.sh'
 
 The data files (irradiations, and return on investment indicators (created)
 are located in '../data'.

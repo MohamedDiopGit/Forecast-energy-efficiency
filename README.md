@@ -2,7 +2,7 @@
  Forecasting energy efficiency, reliability and cost of solar panels for a house, by analyzing weather data in CSV format.
 
 To start the program : 	
-	Open Terminal from the "Project_AlgoProg_DIOP_GLEYZE" folder
+	Open Terminal from the "Forecast-energy-efficiency" folder
 		type --> 'bash myApp.sh'
 
 The data files (irradiations, and return on investment indicators (created)

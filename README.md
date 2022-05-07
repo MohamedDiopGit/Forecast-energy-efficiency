@@ -15,6 +15,7 @@ To add a city to the simulation :
 
 
 To make a good simulation (example):
+
 	1: change the area (option3)
 	2: mod. user catalogue (option 5)
 	3: add equipment, see more, then return

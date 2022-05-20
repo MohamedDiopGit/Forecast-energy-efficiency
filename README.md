@@ -3,7 +3,7 @@
 
 To start the program : 	
 	Open Terminal from the "Forecast-energy-efficiency" folder
-		type --> 'bash myApp.sh'
+		type --> 'bash myApp.sh' in terminal (Ubuntu)
 
 The data files (irradiations, and return on investment indicators (created)
 are located in '../data'.

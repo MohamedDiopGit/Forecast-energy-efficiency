@@ -26,4 +26,3 @@ To make a good simulation (example):
 	(7bis): CTRL+Z to force the exit 
 
 
-Runned on Ubuntu.
